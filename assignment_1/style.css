@@ -2,6 +2,7 @@
 .present
 {
     width: 100%;
+    display:flex;
  
    
 }   
@@ -11,15 +12,14 @@
     background-color:whitesmoke;
     width:30%;
     height:50%;
-    float: left;
 }
 
 .create2
 {
    width:70%;
-    float: left;
    height: 50%;
    font-size: 20px;
+   margin-left: 20px;
 }
 
 img
@@ -34,7 +34,6 @@ img
     font-size: medium;
     border: none;
     color:aliceblue;
-    margin-bottom: 400%;
     padding:5% 10%;
     cursor: pointer;
 }
